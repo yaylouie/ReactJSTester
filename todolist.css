@@ -1,0 +1,34 @@
+.root {
+	border-radius: 25px;
+	background: #f5f5f0;
+	border: 2px solid #ebebe0;
+	padding: 20px;
+	margin-top: 2em;
+}
+ul {
+	list-style-type: none;
+}
+.single-task {
+	border-radius: 20px;
+	background: #ffffff;
+	border: 2px solid #ebebe0;
+	padding: 10px;
+	margin-top: 1em;
+}
+.task-input {
+	border-radius: 10px;
+	width: 600px;
+}
+.blue-task {
+	background:  #cce0ff;
+}
+.red-task {
+	background: #ffcccc;
+}
+.green-task {
+	background: #c2f0c2;
+}
+.category {
+	border-radius: 5px;
+	margin:6px;
+}
